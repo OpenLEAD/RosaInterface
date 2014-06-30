@@ -33,3 +33,5 @@
 master.pdf
 *.project
 *.texlipse
+/tmp
+/Relatorio de Interface.pdf
